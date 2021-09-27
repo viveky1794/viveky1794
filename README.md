@@ -10,7 +10,7 @@
 
 
 
-# I am Embedded Software developer with Higher skills in Lower level programming.
+# I am Embedded Software developer with Highly skilled in Lower level programming.
 
 ![Yes I am Vivek Yadav](profileImages/intro.jpg)
 
