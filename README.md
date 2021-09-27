@@ -1,16 +1,16 @@
-### Hi there 👋
+![my Empire Symbol](profileImages/symbol.jpg)
 
-<!--
-**viveky1794/viveky1794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Let me Introduce myself.
+
+![Warrior](profileImages/Alone.jpg)
+
+
+
+# I am Embedded Software developer with Higher skills in Lower level programming.
+
+![Yes I am Vivek Yadav](profileImages/intro.jpg)
+
