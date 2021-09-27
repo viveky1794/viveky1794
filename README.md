@@ -1,4 +1,4 @@
-![my Empire Symbol](profileImages/symbol.jpg)
+<img src="profileImages/symbol.jpg" width="500" height="400">
 
 
 
